@@ -1,0 +1,4 @@
+#ibnclude<stdio.h>
+main() {
+printf("hellow world");
+}
